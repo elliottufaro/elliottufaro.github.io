@@ -1,0 +1,23 @@
+.name{
+    font-size: 30px;
+}
+
+.position{
+    font-size: 20px;
+
+}
+.centered{
+    text-align: center;
+    
+}
+.profilepic{
+    height: 300px;
+    width: 200px;
+    border-radius: 5px;
+}
+.link{
+    text-decoration: none;
+}
+.link:hover{
+    color: red;
+}
